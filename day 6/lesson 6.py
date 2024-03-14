@@ -1,0 +1,10 @@
+#print(true)
+#print(false)
+
+print(5 > 8)
+print(9 < 11)
+print(7 == 7)
+print(6 <= 8)
+print(4 >= 3)
+print(11 == 11)
+print(1 > 1)
