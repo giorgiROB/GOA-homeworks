@@ -8,7 +8,7 @@ print(temp_in_fahrenheit)
 age = int(input("Please enter your age: "))
 print(age > 10 and age < 25)
 
-#homework 1
+#homework 3
 length = float(input("Please enter rect length: "))
 width = float(input("Please enter rect width: "))
 
